@@ -1,0 +1,59 @@
+# Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments
+(IDEs) like Eclipse. Write in a text file called "list-of-IDEs.txt" at least five IDEs along with 2-3 sentences about each of them. Use English.
+
+Visual Studio
+
+	Visual Studio has an advantage when it comes to programming. This IDE is mostly used by corporate programmers to produce .NET code.
+Advantages
+	Intellisense
+	For those who don’t know what Intellisense is, here is a brief overview. Intellisense is Microsoft’s way to make programming in .NET as painless as possible. When you start programming in Visual Studios IDE you will notice a suggestion box will appear when you start typing anything within the IDE, this is to notify the user what methods and functions are available. When clicking on one of the methods in the suggestion box the environment will tell you exactly what the method will do and how many and what parameters are needed. The ability to make decisions on what functions and methods to use based on intellisense is a powerful feature that many would find useful, if not life changing.
+
+    2.	Automatic code formatting
+	With a product like Visual Studio you get what you pay for. When you start coding a method and go to enter the “{“ brackets, the code inside those brackets will actually indent to the right. A very handy feature for a code monkey who is just looking to get the program done. As well, there are options to enhance the colors to see variables as a different color than a method header which is very useful when going through hundreds of lines of code to find a bug. Both these things may be minute details but in the end are designed to save the developer time and money.
+	3.	Extensibility
+			Something that you don’t like about Visual Studio? Code a new tool for it or use one of the many available to the developers using Visual Studio Gallery. This site is a wealth of fixes for things that developers didn’t like with Visual Studio and decided to fix.
+	4.	Compiles Code
+
+Eclipse
+
+This is the best alternative if you are not a big fan of Microsoft’s Visual Studio. The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the .Net Framework. Besides being the number on way to develop Android applications via the Android SDK, it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+	Advantages
+	Language Extensibility
+	The languages mentioned above are not limited by Microsoft and anyone is free to develop plug-ins for different languages and to make the development environment easier to use. Also, the ability to use this on Linux is a great sway for many people who don’t like to be bound by Microsoft’s operating systems and like full control of their OS.
+	Free
+	Besides being fully customizable and extensible, the next best thing about eclipse is it’s free. This is good news for hobbyists and casual programmers wanting to just hack out some code in their free time.
+	Compiles Code
+
+Netbeans
+	The is the number one alternative to Eclipse. This program is extensible and free, and it compiles code which is a bonus. When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer for your testing environment. This server is the second biggest server for Java next to WebSphere (which is a whole different ball game).
+	Advantages
+	Extensible
+	Again, extensibility is a must have for the development environments out there to survive. Instead of having multiple programs for multiple different languages combining them into one program gains recognition from developers and the software programs that combine it all but the kitchen sink are utilized more often because of the simplicity and ease of access to the languages developers want.
+	Compiles Code
+	Free
+
+WebStorm
+WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
+	WebStorm’s smart code editor provides first-class support for JavaScript, Node.js, HTML and CSS, as well as their modern successors. Take advantage of code completion, error detection, refactoring and more!
+	The IDE understands your project and helps you produce high-quality code more efficiently, thanks to intelligent code completion, on-the-fly error detection, powerful navigation, and automated yet safe refactorings.
+	WebStorm works well with most modern and popular technologies for web development. Enjoy first-class support for AngularJS, ECMAScript 6, Compass, and much more.
+	WebStorm streamlines your workflow by integrating with everything you need for productive development. You can use the debugger, VCS, terminal and other tools right in the IDE.
+	WebStorm works on Windows, Mac OS or Linux with a single license key. No matter what OS you prefer, WebStorm guarantees the best development experience.
+
+Aptana Studio
+It is a comprehensive tool that mainly function as an AJAX development environment, but it is also capable of working with .Net, PHP and other programing languages. It makes use of the Eclipse flexibility and utilize it into a powerful web development engine. This IDE helps eliminate compatibility issues and testing challenges.
+Key features:
+	It comes with Code Assist feature that help in displaying matching tags and graphical information regarding each element, at the time of editing HTML files.
+	Comes with a fully integrated Ruby and Rails debugger.
+	Help you collaborate with team members
+	
+
+
+
+
+
+
+
+
+
+
